@@ -1,5 +1,5 @@
 # ElectronicStore
-A e-commerce project developed on Spring boot 
+An e-commerce project developed on Spring boot 
 
 # Technologies
 * Java 
